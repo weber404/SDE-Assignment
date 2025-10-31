@@ -9,7 +9,7 @@ git clone https://github.com/weber404/SDE-Assignment.git
 ```
 # 2. Navigate into the folder
 ```bash
-cd merge-time-ranges
+cd merge-time
 
 ```
 # Run the example test script
